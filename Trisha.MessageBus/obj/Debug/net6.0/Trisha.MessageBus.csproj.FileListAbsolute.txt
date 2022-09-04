@@ -1,0 +1,12 @@
+C:\Users\Binesh.Chaurasiya\Desktop\Learning\dotNetLearning\TrishaRestaurant\Trisha.MessageBus\bin\Debug\net6.0\Trisha.MessageBus.deps.json
+C:\Users\Binesh.Chaurasiya\Desktop\Learning\dotNetLearning\TrishaRestaurant\Trisha.MessageBus\bin\Debug\net6.0\Trisha.MessageBus.dll
+C:\Users\Binesh.Chaurasiya\Desktop\Learning\dotNetLearning\TrishaRestaurant\Trisha.MessageBus\bin\Debug\net6.0\ref\Trisha.MessageBus.dll
+C:\Users\Binesh.Chaurasiya\Desktop\Learning\dotNetLearning\TrishaRestaurant\Trisha.MessageBus\bin\Debug\net6.0\Trisha.MessageBus.pdb
+C:\Users\Binesh.Chaurasiya\Desktop\Learning\dotNetLearning\TrishaRestaurant\Trisha.MessageBus\obj\Debug\net6.0\Trisha.MessageBus.csproj.AssemblyReference.cache
+C:\Users\Binesh.Chaurasiya\Desktop\Learning\dotNetLearning\TrishaRestaurant\Trisha.MessageBus\obj\Debug\net6.0\Trisha.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Binesh.Chaurasiya\Desktop\Learning\dotNetLearning\TrishaRestaurant\Trisha.MessageBus\obj\Debug\net6.0\Trisha.MessageBus.AssemblyInfoInputs.cache
+C:\Users\Binesh.Chaurasiya\Desktop\Learning\dotNetLearning\TrishaRestaurant\Trisha.MessageBus\obj\Debug\net6.0\Trisha.MessageBus.AssemblyInfo.cs
+C:\Users\Binesh.Chaurasiya\Desktop\Learning\dotNetLearning\TrishaRestaurant\Trisha.MessageBus\obj\Debug\net6.0\Trisha.MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\Binesh.Chaurasiya\Desktop\Learning\dotNetLearning\TrishaRestaurant\Trisha.MessageBus\obj\Debug\net6.0\Trisha.MessageBus.dll
+C:\Users\Binesh.Chaurasiya\Desktop\Learning\dotNetLearning\TrishaRestaurant\Trisha.MessageBus\obj\Debug\net6.0\ref\Trisha.MessageBus.dll
+C:\Users\Binesh.Chaurasiya\Desktop\Learning\dotNetLearning\TrishaRestaurant\Trisha.MessageBus\obj\Debug\net6.0\Trisha.MessageBus.pdb

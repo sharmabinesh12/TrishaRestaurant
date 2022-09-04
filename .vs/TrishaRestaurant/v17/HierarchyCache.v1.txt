@@ -1,0 +1,979 @@
+﻿++Solution 'TrishaRestaurant' ‎(7 of 7 projects)
+++Integration
+i:{00000000-0000-0000-0000-000000000000}:Integration
+++Trisha.MessageBus
+i:{1093bcaa-2530-4e6a-863c-bf74ea4197ba}:Trisha.MessageBus
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.messagebus\trisha.messagebus.csproj
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.messagebus\bin\debug\net6.0\trisha.messagebus.dll
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.messagebus\trisha.messagebus.csproj
+++Dependencies
+i:{c765c826-e39e-43a8-a459-330c80ade469}:>1861
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:>3938
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:>3940
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:>3939
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:>3937
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:>3942
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:>3941
+i:{0502b26b-bc37-4af1-aba0-3803ecb8402a}:>4134
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:>4209
+++AzureServiceBusMessageBus.cs
+i:{c765c826-e39e-43a8-a459-330c80ade469}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.messagebus\azureservicebusmessagebus.cs
+++BaseMessage.cs
+i:{c765c826-e39e-43a8-a459-330c80ade469}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.messagebus\basemessage.cs
+++IMessageBus.cs
+i:{c765c826-e39e-43a8-a459-330c80ade469}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.messagebus\imessagebus.cs
+++Analyzers
+i:{c765c826-e39e-43a8-a459-330c80ade469}:analyzers
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:analyzers
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:analyzers
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:analyzers
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:analyzers
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:analyzers
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:analyzers
+i:{0502b26b-bc37-4af1-aba0-3803ecb8402a}:analyzers
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:analyzers
+++Frameworks
+i:{c765c826-e39e-43a8-a459-330c80ade469}:frameworks
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:frameworks
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:frameworks
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:frameworks
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:frameworks
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:frameworks
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:frameworks
+i:{0502b26b-bc37-4af1-aba0-3803ecb8402a}:frameworks
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:frameworks
+++Packages
+i:{c765c826-e39e-43a8-a459-330c80ade469}:packages
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:packages
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:packages
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:packages
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:packages
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:packages
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:packages
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:packages
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{c765c826-e39e-43a8-a459-330c80ade469}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{0502b26b-bc37-4af1-aba0-3803ecb8402a}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{c765c826-e39e-43a8-a459-330c80ade469}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{0502b26b-bc37-4af1-aba0-3803ecb8402a}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{c765c826-e39e-43a8-a459-330c80ade469}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{0502b26b-bc37-4af1-aba0-3803ecb8402a}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{c765c826-e39e-43a8-a459-330c80ade469}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.messagebus\microsoft.netcore.app
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\microsoft.netcore.app
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\microsoft.netcore.app
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.couponapi\microsoft.netcore.app
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisa.services.api\microsoft.netcore.app
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\microsoft.netcore.app
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\microsoft.netcore.app
+i:{0502b26b-bc37-4af1-aba0-3803ecb8402a}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\paymentprocessor\microsoft.netcore.app
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.paymentapi\microsoft.netcore.app
+++Azure.Messaging.ServiceBus (7.10.0)
+i:{c765c826-e39e-43a8-a459-330c80ade469}:>3963
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:>4109
+++Newtonsoft.Json (13.0.1)
+i:{c765c826-e39e-43a8-a459-330c80ade469}:>3962
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:>4030
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:>4066
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:>4106
+++Frontend
+i:{00000000-0000-0000-0000-000000000000}:Frontend
+++Trisha.Web
+i:{2c37eb15-bdd9-4e74-87df-1aceeb83da68}:Trisha.Web
+++Connected Services 
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:>3943
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:>3947
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:>3945
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:>3944
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:>3946
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:>3953
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:>4210
+++Properties
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\properties\
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\properties\
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.couponapi\properties\
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisa.services.api\properties\
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\properties\
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\properties\
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.paymentapi\properties\
+++wwwroot
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\
+++Controllers
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\controllers\
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\controllers\
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.couponapi\controllers\
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisa.services.api\controllers\
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\controllers\
+++CartController.cs
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\controllers\cartcontroller.cs
+++HomeController.cs
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\controllers\homecontroller.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\home\homecontroller.cs
+++ProductController.cs
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\controllers\productcontroller.cs
+++Models
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\models\
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\models\
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.couponapi\models\
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisa.services.api\models\
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\models\
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\models\
+++ApiRequest.cs
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\models\apirequest.cs
+++CartDetailsDto.cs
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\models\cartdetailsdto.cs
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\models\dto\cartdetailsdto.cs
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\messages\cartdetailsdto.cs
+++CartDto.cs
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\models\cartdto.cs
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\models\dto\cartdto.cs
+++CartHeaderDto.cs
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\models\cartheaderdto.cs
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\models\dto\cartheaderdto.cs
+++CouponDto.cs
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\models\coupondto.cs
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\models\dto\coupondto.cs
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.couponapi\models\dto\coupondto.cs
+++ErrorViewModel.cs
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\models\errorviewmodel.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\models\errorviewmodel.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\home\errorviewmodel.cs
+++ProductDto.cs
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\models\productdto.cs
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\models\dto\productdto.cs
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisa.services.api\models\dto\productdto.cs
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\messages\productdto.cs
+++ResponseDto.cs
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\models\responsedto.cs
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\models\dto\responsedto.cs
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.couponapi\models\dto\responsedto.cs
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisa.services.api\models\dto\responsedto.cs
+++Services
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\services\
+i:{00000000-0000-0000-0000-000000000000}:Services
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\services\
+++IServices
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\services\iservices\
+++IBaseService.cs
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\services\iservices\ibaseservice.cs
+++ICartService.cs
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\services\iservices\icartservice.cs
+++ICouponService.cs
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\services\iservices\icouponservice.cs
+++IProductService.cs
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\services\iservices\iproductservice.cs
+++BaseService.cs
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\services\baseservice.cs
+++CartService.cs
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\services\cartservice.cs
+++CouponService.cs
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\services\couponservice.cs
+++ProductService.cs
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\services\productservice.cs
+++Views
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\views\
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\views\
+++Cart
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\views\cart\
+++Home
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\views\home\
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\home\
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\views\home\
+++Product
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\views\product\
+++Shared
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\views\shared\
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\views\shared\
+++_Layout.cshtml
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\views\shared\_layout.cshtml
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\views\shared\_layout.cshtml
+++_LoginPartial.cshtml
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\views\shared\_loginpartial.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\views\shared\_validationscriptspartial.cshtml
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\views\shared\error.cshtml
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\views\_viewimports.cshtml
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\views\_viewstart.cshtml
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\views\_viewstart.cshtml
+++appsettings.json
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\appsettings.json
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\appsettings.json
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.couponapi\appsettings.json
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisa.services.api\appsettings.json
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\appsettings.json
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\appsettings.json
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.paymentapi\appsettings.json
+++Program.cs
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\program.cs
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\program.cs
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.couponapi\program.cs
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisa.services.api\program.cs
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\program.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\program.cs
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.paymentapi\program.cs
+++SD.cs
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\sd.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\sd.cs
+++No service dependencies discovered
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:>3948
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:>3950
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:>3949
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:>3951
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:>3952
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:>3954
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:>4211
+++launchSettings.json
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\properties\launchsettings.json
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\properties\launchsettings.json
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.couponapi\properties\launchsettings.json
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisa.services.api\properties\launchsettings.json
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\properties\launchsettings.json
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\properties\launchsettings.json
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.paymentapi\properties\launchsettings.json
+++css
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\css\
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\css\
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\css\
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\css\
+++images
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\images\
+++js
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\js\
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\js\
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\js\
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\
+++favicon.ico
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\favicon.ico
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\favicon.ico
+++CartIndex.cshtml
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\views\cart\cartindex.cshtml
+++Checkout.cshtml
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\views\cart\checkout.cshtml
+++Confirmation.cshtml
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\views\cart\confirmation.cshtml
+++Details.cshtml
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\views\home\details.cshtml
+++Index.cshtml
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\views\home\index.cshtml
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\views\consent\index.cshtml
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\views\diagnostics\index.cshtml
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\views\grants\index.cshtml
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\views\home\index.cshtml
+++Privacy.cshtml
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\views\home\privacy.cshtml
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\views\home\privacy.cshtml
+++ProductCreate.cshtml
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\views\product\productcreate.cshtml
+++ProductDelete.cshtml
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\views\product\productdelete.cshtml
+++ProductEdit.cshtml
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\views\product\productedit.cshtml
+++ProductIndex.cshtml
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\views\product\productindex.cshtml
+++_Layout.cshtml.css
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\views\shared\_layout.cshtml.css
+++appsettings.Development.json
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\appsettings.development.json
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\appsettings.development.json
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.couponapi\appsettings.development.json
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisa.services.api\appsettings.development.json
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\appsettings.development.json
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\appsettings.development.json
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.paymentapi\appsettings.development.json
+++MessagePackAnalyzer
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0-preview.1.22076.8\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\microsoft.aspnetcore.app
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\microsoft.aspnetcore.app
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.couponapi\microsoft.aspnetcore.app
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisa.services.api\microsoft.aspnetcore.app
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\microsoft.aspnetcore.app
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\microsoft.aspnetcore.app
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.paymentapi\microsoft.aspnetcore.app
+++Microsoft.AspNetCore.Authentication.OpenIdConnect (6.0.1)
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:>4033
+++Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation (6.0.1)
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:>4021
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:>4096
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.8)
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:>4037
+++Swashbuckle.AspNetCore (6.3.0)
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:>4026
+++System.IdentityModel.Tokens.Jwt (6.15.1)
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:>4024
+++bootstrap-datetimepicker.css
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\css\bootstrap-datetimepicker.css
+++site.css
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\css\site.css
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\css\site.css
+++mango.png
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\images\mango.png
+++order.PNG
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\images\order.png
+++bootstrap-datetimepicker.js
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\js\bootstrap-datetimepicker.js
+++site.js
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\js\site.js
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\js\site.js
+++bootstrap
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\
+++jquery
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\jquery\
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\jquery\
+++jquery-validation
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\jquery-validation\
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\jquery-validation-unobtrusive\
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\jquery-validation-unobtrusive\
+++dist
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\jquery\dist\
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\jquery-validation\dist\
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\jquery\dist\
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\license
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\jquery\license.txt
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\jquery\license.txt
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\jquery-validation\license.md
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\jquery\dist\jquery.js
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\jquery-validation\dist\additional-methods.js
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\jquery\dist\jquery.min.js
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\jquery\dist\jquery.min.map
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{7559e660-3b2f-4d70-80c4-10831825cf7d}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++Trisha.Services.ShoppingCartAPI
+i:{9a214447-7b50-470f-a442-a2fcd007cc18}:Trisha.Services.ShoppingCartAPI
+++CartAPIController.cs
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\controllers\cartapicontroller.cs
+++DbContexts
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\dbcontexts\
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.couponapi\dbcontexts\
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisa.services.api\dbcontexts\
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\dbcontexts\
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\dbcontexts\
+++Messages
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\messages\
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\messages\
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.paymentapi\messages\
+++Migrations
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\migrations\
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.couponapi\migrations\
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisa.services.api\migrations\
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\migrations\
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\migrations\
+++Repository
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\repository\
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.couponapi\repository\
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisa.services.api\repository\
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\repository\
+++CartRepository.cs
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\repository\cartrepository.cs
+++CouponRepository.cs
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\repository\couponrepository.cs
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.couponapi\repository\couponrepository.cs
+++ICartRepository.cs
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\repository\icartrepository.cs
+++ICouponRepository.cs
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\repository\icouponrepository.cs
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.couponapi\repository\icouponrepository.cs
+++MappingConfig.cs
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\mappingconfig.cs
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.couponapi\mappingconfig.cs
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisa.services.api\mappingconfig.cs
+++Projects
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:projects
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:projects
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:projects
+++ApplicationDbContext.cs
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\dbcontexts\applicationdbcontext.cs
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.couponapi\dbcontexts\applicationdbcontext.cs
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisa.services.api\dbcontexts\applicationdbcontext.cs
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\dbcontexts\applicationdbcontext.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\dbcontexts\applicationdbcontext.cs
+++CheckoutHeaderDto.cs
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\messages\checkoutheaderdto.cs
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\messages\checkoutheaderdto.cs
+++20220217211052_AddProductAndCartModels.cs
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\migrations\20220217211052_addproductandcartmodels.cs
+++20220823204327_addCouponToCartHeader.cs
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\migrations\20220823204327_addcoupontocartheader.cs
+++20220824203512_CouponCodetoShoppingCartAPI.cs
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\migrations\20220824203512_couponcodetoshoppingcartapi.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\migrations\applicationdbcontextmodelsnapshot.cs
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.couponapi\migrations\applicationdbcontextmodelsnapshot.cs
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisa.services.api\migrations\applicationdbcontextmodelsnapshot.cs
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\migrations\applicationdbcontextmodelsnapshot.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\migrations\applicationdbcontextmodelsnapshot.cs
+++Dto
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\models\dto\
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.couponapi\models\dto\
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisa.services.api\models\dto\
+++Cart.cs
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\models\cart.cs
+++CartDetails.cs
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\models\cartdetails.cs
+++CartHeader.cs
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\models\cartheader.cs
+++Product.cs
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\models\product.cs
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisa.services.api\models\product.cs
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.0-preview.1.22076.6\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\users\binesh.chaurasiya\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\users\binesh.chaurasiya\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++AutoMapper (11.0.1)
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:>4069
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:>4029
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:>4108
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:>4061
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:>4017
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:>4022
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:>4104
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.2)
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:>4070
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:>4110
+++Microsoft.EntityFrameworkCore.Design (7.0.0-preview.1.22076.6)
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:>4062
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.2)
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:>4059
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:>4102
+++Swashbuckle.AspNetCore (6.2.3)
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:>4064
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:>4020
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:>4025
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:>4105
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:>4222
+++Swashbuckle.AspNetCore.Annotations (6.2.3)
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:>4067
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:>4028
+++Swashbuckle.AspNetCore.SwaggerUI (6.2.3)
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:>4071
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:>4039
+++20220217211052_AddProductAndCartModels.Designer.cs
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\migrations\20220217211052_addproductandcartmodels.designer.cs
+++20220823204327_addCouponToCartHeader.Designer.cs
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\migrations\20220823204327_addcoupontocartheader.designer.cs
+++20220824203512_CouponCodetoShoppingCartAPI.Designer.cs
+i:{97b2b07a-3c3d-4a86-93df-77c1709dd820}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.shoppingcartapi\migrations\20220824203512_couponcodetoshoppingcartapi.designer.cs
+++Trisha.Services.CouponAPI
+i:{9a214447-7b50-470f-a442-a2fcd007cc18}:Trisha.Services.CouponAPI
+++CouponAPIController.cs
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.couponapi\controllers\couponapicontroller.cs
+++20220823190023_addCouponToDB.cs
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.couponapi\migrations\20220823190023_addcoupontodb.cs
+++Coupon.cs
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.couponapi\models\coupon.cs
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.8)
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:>4032
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.1)
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:>4014
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:>4019
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:>4097
+++Microsoft.EntityFrameworkCore.Tools (6.0.1)
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:>4035
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:>4036
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:>4101
+++Swashbuckle.AspNetCore.Annotations (6.4.0)
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:>4023
+++Swashbuckle.AspNetCore.Swagger (6.4.0)
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:>4027
+++Swashbuckle.AspNetCore.SwaggerUI (6.4.0)
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:>4038
+++20220823190023_addCouponToDB.Designer.cs
+i:{9e1fbce5-8798-4736-b2de-68fefcb840e7}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.couponapi\migrations\20220823190023_addcoupontodb.designer.cs
+++Trisha.Services.ProductAPI
+i:{9a214447-7b50-470f-a442-a2fcd007cc18}:Trisha.Services.ProductAPI
+++ProductAPIController.cs
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisa.services.api\controllers\productapicontroller.cs
+++20220116182656_AddProductModelToDb.cs
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisa.services.api\migrations\20220116182656_addproductmodeltodb.cs
+++20220117202150_SeedProducts.cs
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisa.services.api\migrations\20220117202150_seedproducts.cs
+++20220216172858_seed_data.cs
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisa.services.api\migrations\20220216172858_seed_data.cs
+++IProductRepository.cs
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisa.services.api\repository\iproductrepository.cs
+++ProductRepository.cs
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisa.services.api\repository\productrepository.cs
+++AutoMapper (11.0.0)
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:>4031
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.1)
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:>4034
+++20220116182656_AddProductModelToDb.Designer.cs
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisa.services.api\migrations\20220116182656_addproductmodeltodb.designer.cs
+++20220117202150_SeedProducts.Designer.cs
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisa.services.api\migrations\20220117202150_seedproducts.designer.cs
+++20220216172858_seed_data.Designer.cs
+i:{b0848cb5-3af1-4a13-a17d-219790cd1c75}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisa.services.api\migrations\20220216172858_seed_data.designer.cs
+++Trisha.Services.OrderAPI
+i:{9a214447-7b50-470f-a442-a2fcd007cc18}:Trisha.Services.OrderAPI
+++Extension
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\extension\
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.paymentapi\extension\
+++Messaging
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\messaging\
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.paymentapi\messaging\
+++WeatherForecast.cs
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\weatherforecast.cs
+++WeatherForecastController.cs
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\controllers\weatherforecastcontroller.cs
+++ApplicationBuilderExtensions.cs
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\extension\applicationbuilderextensions.cs
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.paymentapi\extension\applicationbuilderextensions.cs
+++PaymentRequestMessage.cs
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\messages\paymentrequestmessage.cs
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.paymentapi\messages\paymentrequestmessage.cs
+++UpdatePaymentResultMessage.cs
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\messages\updatepaymentresultmessage.cs
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.paymentapi\messages\updatepaymentresultmessage.cs
+++AzureServiceBusConsumer.cs
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\messaging\azureservicebusconsumer.cs
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.paymentapi\messaging\azureservicebusconsumer.cs
+++IAzureServiceBusConsumer.cs
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\messaging\iazureservicebusconsumer.cs
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.paymentapi\messaging\iazureservicebusconsumer.cs
+++RabbitMQCheckoutConsumer.cs
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\messaging\rabbitmqcheckoutconsumer.cs
+++RabbitMQPaymentConsumer.cs
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\messaging\rabbitmqpaymentconsumer.cs
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.paymentapi\messaging\rabbitmqpaymentconsumer.cs
+++20220828122513_pushOrderTablesToDB.cs
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\migrations\20220828122513_pushordertablestodb.cs
+++20220828201405_updateOrderTablesToDB.cs
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\migrations\20220828201405_updateordertablestodb.cs
+++OrderDetails.cs
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\models\orderdetails.cs
+++OrderHeader.cs
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\models\orderheader.cs
+++IOrderRepository.cs
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\repository\iorderrepository.cs
+++OrderRepository.cs
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\repository\orderrepository.cs
+++Microsoft.EntityFrameworkCore.Tools (6.0.2)
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:>4111
+++RabbitMQ.Client (6.4.0)
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:>4107
+++20220828122513_pushOrderTablesToDB.Designer.cs
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\migrations\20220828122513_pushordertablestodb.designer.cs
+++20220828201405_updateOrderTablesToDB.Designer.cs
+i:{7fab11f0-a0d3-4a64-88a4-114e78da90b1}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.orderapi\migrations\20220828201405_updateordertablestodb.designer.cs
+++Trisha.Services.Identity
+i:{9a214447-7b50-470f-a442-a2fcd007cc18}:Trisha.Services.Identity
+++Initializer
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\initializer\
+++keys
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\keys\
+++MainModule
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\
+++tempkey.jwk
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\tempkey.jwk
+++DbInitializer.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\initializer\dbinitializer.cs
+++IDbInitializer.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\initializer\idbinitializer.cs
+++is-signing-key-80E10AB505307C82170D593BE062230C.json
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\keys\is-signing-key-80e10ab505307c82170d593be062230c.json
+++is-signing-key-E8C5D6CA4ABA9806DD9EEEE4BBD4499C.json
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\keys\is-signing-key-e8c5d6ca4aba9806dd9eeee4bbd4499c.json
+++Account
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\account\
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\views\account\
+++Consent
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\consent\
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\views\consent\
+++Device
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\device\
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\views\device\
+++Diagnostics
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\diagnostics\
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\views\diagnostics\
+++Grants
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\grants\
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\views\grants\
+++Extensions.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\extensions.cs
+++SecurityHeadersAttribute.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\securityheadersattribute.cs
+++TestUsers.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\testusers.cs
+++20220130210950_ConfigureDefaultIdentityTables.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\migrations\20220130210950_configuredefaultidentitytables.cs
+++20220202192905_AddFirstLastNameToUser.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\migrations\20220202192905_addfirstlastnametouser.cs
+++ApplicationUser.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\models\applicationuser.cs
+++ProfileService.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\services\profileservice.cs
+++Duende.IdentityServer.AspNetIdentity (6.0.3)
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:>4094
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.1)
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:>4099
+++Microsoft.AspNetCore.Identity.UI (6.0.1)
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:>4103
+++AccountController.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\account\accountcontroller.cs
+++AccountOptions.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\account\accountoptions.cs
+++ExternalController.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\account\externalcontroller.cs
+++ExternalProvider.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\account\externalprovider.cs
+++LoggedOutViewModel.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\account\loggedoutviewmodel.cs
+++LoginInputModel.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\account\logininputmodel.cs
+++LoginViewModel.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\account\loginviewmodel.cs
+++LogoutInputModel.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\account\logoutinputmodel.cs
+++LogoutViewModel.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\account\logoutviewmodel.cs
+++RedirectViewModel.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\account\redirectviewmodel.cs
+++RegisterViewModel.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\account\registerviewmodel.cs
+++ConsentController.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\consent\consentcontroller.cs
+++ConsentInputModel.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\consent\consentinputmodel.cs
+++ConsentOptions.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\consent\consentoptions.cs
+++ConsentViewModel.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\consent\consentviewmodel.cs
+++ProcessConsentResult.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\consent\processconsentresult.cs
+++ScopeViewModel.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\consent\scopeviewmodel.cs
+++DeviceAuthorizationInputModel.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\device\deviceauthorizationinputmodel.cs
+++DeviceAuthorizationViewModel.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\device\deviceauthorizationviewmodel.cs
+++DeviceController.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\device\devicecontroller.cs
+++DiagnosticsController.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\diagnostics\diagnosticscontroller.cs
+++DiagnosticsViewModel.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\diagnostics\diagnosticsviewmodel.cs
+++GrantsController.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\grants\grantscontroller.cs
+++GrantsViewModel.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\mainmodule\grants\grantsviewmodel.cs
+++20220130210950_ConfigureDefaultIdentityTables.Designer.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\migrations\20220130210950_configuredefaultidentitytables.designer.cs
+++20220202192905_AddFirstLastNameToUser.Designer.cs
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\migrations\20220202192905_addfirstlastnametouser.designer.cs
+++AccessDenied.cshtml
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\views\account\accessdenied.cshtml
+++LoggedOut.cshtml
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\views\account\loggedout.cshtml
+++Login.cshtml
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\views\account\login.cshtml
+++Logout.cshtml
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\views\account\logout.cshtml
+++Register.cshtml
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\views\account\register.cshtml
+++Success.cshtml
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\views\device\success.cshtml
+++UserCodeCapture.cshtml
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\views\device\usercodecapture.cshtml
+++UserCodeConfirmation.cshtml
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\views\device\usercodeconfirmation.cshtml
+++_Nav.cshtml
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\views\shared\_nav.cshtml
+++_ScopeListItem.cshtml
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\views\shared\_scopelistitem.cshtml
+++_ValidationSummary.cshtml
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\views\shared\_validationsummary.cshtml
+++Redirect.cshtml
+i:{35dd136e-66a2-4b19-ba43-3afe335d28da}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\trisha.services.identity\views\shared\redirect.cshtml
+++NewFolder1
+++Payments
+i:{00000000-0000-0000-0000-000000000000}:Payments
+++Solution 'TrishaRestaurant' ‎(8 of 8 projects)
+++PaymentProcessor
+i:{33cc5040-df36-4c4b-aa88-b909934cbf1a}:PaymentProcessor
+i:{f0d5715d-f700-4c2e-9df2-457fb626bfda}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\paymentprocessor\paymentprocessor.csproj
+++Class1.cs
+++C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.NetAnalyzers.dll
+++IProcessPayment.cs
+i:{0502b26b-bc37-4af1-aba0-3803ecb8402a}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\paymentprocessor\iprocesspayment.cs
+++ProcessPayment.cs
+i:{0502b26b-bc37-4af1-aba0-3803ecb8402a}:c:\users\binesh.chaurasiya\desktop\learning\dotnetlearning\trisharestaurant\paymentprocessor\processpayment.cs
+++Solution 'TrishaRestaurant' ‎(9 of 9 projects)
+i:{00000000-0000-0000-0000-000000000000}:TrishaRestaurant.sln
+++Trisha.Services.PaymentAPI
+i:{9a214447-7b50-470f-a442-a2fcd007cc18}:Trisha.Services.PaymentAPI
+++C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Components.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Mvc.Analyzers.dll

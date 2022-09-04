@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jL/yyIj3Sf7BmYPgl2j6Cyz5EjALPRk4cAri5C7QRaU=",
+  "Source": "Trisha.Services.PaymentAPI",
+  "BasePath": "_content/Trisha.Services.PaymentAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

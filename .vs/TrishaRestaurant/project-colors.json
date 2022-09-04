@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7559e660-3b2f-4d70-80c4-10831825cf7d": {
+      "ProjectGuid": "7559e660-3b2f-4d70-80c4-10831825cf7d",
+      "DisplayName": "Trisha.Web",
+      "ColorIndex": 0
+    },
+    "b0848cb5-3af1-4a13-a17d-219790cd1c75": {
+      "ProjectGuid": "b0848cb5-3af1-4a13-a17d-219790cd1c75",
+      "DisplayName": "Trisha.Services.ProductAPI",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "35dd136e-66a2-4b19-ba43-3afe335d28da": {
+      "ProjectGuid": "35dd136e-66a2-4b19-ba43-3afe335d28da",
+      "DisplayName": "Trisha.Services.Identity",
+      "ColorIndex": 2
+    },
+    "97b2b07a-3c3d-4a86-93df-77c1709dd820": {
+      "ProjectGuid": "97b2b07a-3c3d-4a86-93df-77c1709dd820",
+      "DisplayName": "Trisha.Services.ShoppingCartAPI",
+      "ColorIndex": 3
+    },
+    "9e1fbce5-8798-4736-b2de-68fefcb840e7": {
+      "ProjectGuid": "9e1fbce5-8798-4736-b2de-68fefcb840e7",
+      "DisplayName": "Trisha.Services.CouponAPI",
+      "ColorIndex": 4
+    },
+    "c765c826-e39e-43a8-a459-330c80ade469": {
+      "ProjectGuid": "c765c826-e39e-43a8-a459-330c80ade469",
+      "DisplayName": "Trisha.MessageBus",
+      "ColorIndex": 5
+    },
+    "7fab11f0-a0d3-4a64-88a4-114e78da90b1": {
+      "ProjectGuid": "7fab11f0-a0d3-4a64-88a4-114e78da90b1",
+      "DisplayName": "Trisha.Services.OrderAPI",
+      "ColorIndex": 6
+    },
+    "0502b26b-bc37-4af1-aba0-3803ecb8402a": {
+      "ProjectGuid": "0502b26b-bc37-4af1-aba0-3803ecb8402a",
+      "DisplayName": "PaymentProcessor",
+      "ColorIndex": 7
+    },
+    "f0d5715d-f700-4c2e-9df2-457fb626bfda": {
+      "ProjectGuid": "f0d5715d-f700-4c2e-9df2-457fb626bfda",
+      "DisplayName": "Trisha.Services.PaymentAPI",
+      "ColorIndex": 8
+    },
+    "1bc0b5f3-c85a-400e-b6fb-a1e794c01ee1": {
+      "ProjectGuid": "1bc0b5f3-c85a-400e-b6fb-a1e794c01ee1",
+      "DisplayName": "Trisha.Services.Email",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}
